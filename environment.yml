@@ -1,0 +1,21 @@
+name: cancer-subtyping
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - lifelines
+  - statsmodels
+  - pillow
+  - pip
+
+  - pip:
+      - gseapy
+      - lifelines
