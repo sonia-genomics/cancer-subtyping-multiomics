@@ -204,7 +204,7 @@ Differentially expressed genes between breast cancer subtypes.
 
 Publication-style summary visualization integrating clustering, biomarkers, and survival analysis.
 
-![Multi Panel Figure](results/multi_panel_figure.png)
+![Multi Panel Figure](results/Figure1_MultiPanel.png)
 
 ---
 
